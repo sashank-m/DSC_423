@@ -1,2 +1,2 @@
-# DSC_423
-Content Related to DSC430
+# DSC 423 Project 
+The Project for class DSC 423 focuses on predicting the popularity of Mashable articles using the Online News Popularity dataset, covering dataset analysis, data cleaning, feature engineering, and model building. It explores regularization techniques like Ridge, Lasso, and Elastic Net, logistic regression for classifying articles by engagement, and evaluates models using metrics like R-squared and ROC curves. Key findings include the impact of title word count and publishing day on engagement. Future work suggests improving data models by focusing on the Interquartile Range and addressing data quality issues
